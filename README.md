@@ -1,3 +1,10 @@
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=kbu715&&style=plastic&color=blueviolet" align="right" />
+</div>  
+  
+
+<br/> 
+
 ## Hi, I'm Paul&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
 I am a <strong>frontend developer</strong> and striving to be a <em>full-stack developer</em> 😆<br/>
 I love creating something beautiful! <br/>
