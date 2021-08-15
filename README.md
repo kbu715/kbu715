@@ -1,4 +1,33 @@
-### Hi there 👋
+## Hi, I'm Paul&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
+I am a <strong>frontend developer</strong> and striving to be a <em>full-stack developer</em> 😆<br/>
+I love creating something beautiful! <br/>
+
+
+### Statistics:
+
+<p align="left">
+  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=kbu715&hide=stars&show_icons=true&theme=radical" width="380" height="130"/> &nbsp;
+  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbu715&layout=compact&theme=radical" height="130">
+</p>
+
+### Languages & Skills: 
+
+<p>
+  <img alt="javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img alt="typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
+  <img alt="java" src="https://img.shields.io/badge/-Java-FF7A59?style=flat-square&logo=java&logoColor=white" />
+  <br>
+  <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
+  <img alt="next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
+  <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white" />
+  <img alt="apollo" src="https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white" />
+  <br>
+  <img alt="slack" src="https://img.shields.io/badge/-Slack-FF4785?style=flat-square&logo=Slack&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-Github-313131?style=flat-square&logo=GitHub&logoColor=white" />
+  <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" />
+</p>
+
 
 <!--
 **kbu715/kbu715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
