@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=kbu715&&style=plastic&color=blueviolet" align="right" />
 </div>  
   
-
+<div align="center">
 <br/> 
 
 ## Hi, I'm Paul&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
@@ -16,14 +16,14 @@ I am a <strong>frontend developer</strong> and striving to be a <em>full-stack d
 I love creating something beautiful! <br/>
 
 
-### Statistics:
+### Statistics
 
-<p align="left">
+<p>
   <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=kbu715&hide=stars&show_icons=true&theme=radical" width="380" height="130"/> &nbsp;
   <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbu715&layout=compact&theme=radical" height="130">
 </p>
 
-### Languages & Skills: 
+### Languages & Skills
 
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -40,6 +40,7 @@ I love creating something beautiful! <br/>
   <img alt="github" src="https://img.shields.io/badge/-Github-313131?style=flat-square&logo=GitHub&logoColor=white" />
   <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" />
 </p>
+</div>
 
 
 <!--
