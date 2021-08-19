@@ -30,6 +30,7 @@ I love creating something beautiful! <br/>
   <img alt="java" src="https://img.shields.io/badge/-Java-FF7A59?style=flat-square&logo=java&logoColor=white" />
   <br>
   <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=Sass&logoColor=white" />
+  <img alt="styled-components" src="https://img.shields.io/badge/-styled components-DB7093?style=flat-square&logo=styled-components&logoColor=black" />
   <img alt="react" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />
   <img alt="next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white" />
@@ -38,7 +39,10 @@ I love creating something beautiful! <br/>
   <img alt="slack" src="https://img.shields.io/badge/-Slack-FF4785?style=flat-square&logo=Slack&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-313131?style=flat-square&logo=GitHub&logoColor=white" />
   <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=GitLab&logoColor=white" />
+  <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
+  <img alt="xd" src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white" />
 </p>
+
 
 
 <!--
