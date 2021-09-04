@@ -18,8 +18,8 @@ I love creating something beautiful! <br/>
 ### Statistics
 
 <div>
-  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=kbu715&show_icons=true&count_private=true&theme=radical" style="width: 100%" />
-  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbu715&layout=compact&theme=radical" style="width: 100%" />
+  <img alt="github_stats" src="https://github-readme-stats.vercel.app/api?username=kbu715&show_icons=true&count_private=true&theme=radical" />
+  <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbu715&layout=compact&theme=radical" />
 </div>
 
 ### Languages & Skills
