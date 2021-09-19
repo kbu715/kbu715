@@ -35,6 +35,7 @@ I love creating something beautiful! <br/>
   <img alt="next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img alt="graphql" src="https://img.shields.io/badge/-GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white" />
   <img alt="apollo" src="https://img.shields.io/badge/-Apollo-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?&style=flat-square&logo=redux&logoColor=white" />
   <br>
   <img alt="slack" src="https://img.shields.io/badge/-Slack-FF4785?style=flat-square&logo=Slack&logoColor=white" />
   <img alt="github" src="https://img.shields.io/badge/-Github-313131?style=flat-square&logo=GitHub&logoColor=white" />
