@@ -12,7 +12,6 @@
 
 ## Hi, I'm Paul&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
 I am a <strong>frontend developer</strong> and striving to be a <em>full-stack developer</em> 😆<br/>
-I love creating something beautiful! <br/>
 
 
 ### Statistics
@@ -22,8 +21,8 @@ I love creating something beautiful! <br/>
   <img alt="top_languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbu715&layout=compact&theme=radical" height="150px" />
 </div>
 
-### Tech stacks
-
+### Tech stacks 
+Things that I've used more than once.
 <p>
   <img alt="javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
   <img alt="typescript" src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
