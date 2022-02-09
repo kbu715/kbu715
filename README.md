@@ -4,12 +4,12 @@
 
 
 
-<div align="right">
+<!-- <div align="right">
 <img src="https://komarev.com/ghpvc/?username=kbu715&&style=plastic&color=blueviolet" align="right" />
 </div>  
   
-<br/> 
-
+<br/>  -->
+<!-- 
 ## Hi, I'm Paul&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24">
 I am a <strong>frontend developer</strong> and striving to be a <em>full-stack developer</em> 😆<br/>
 
@@ -42,7 +42,7 @@ Things that I've used more than once.
   <img alt="figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
   <img alt="xd" src="https://img.shields.io/badge/-Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white" />
 </p>
-
+ -->
 
 
 <!--
